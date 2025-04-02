@@ -2,7 +2,8 @@
 
 A modern sentiment analysis application that analyzes text from various sources including direct input, YouTube, e-commerce, news, social media, and blogs.
 
-![Sentiment Analyzer Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/ffa868dd-cecb-4d99-83d0-5e3e8351eb9a)
+
 
 ## Overview
 
