@@ -1,9 +1,8 @@
 # Sentiment Analyzer
 
-A modern sentiment analysis application that analyzes text from various sources including direct input, YouTube, e-commerce, news, social media, and blogs (for now we are using mockdata as Api may cost us).
+A modern sentiment analysis application that analyzes text from various sources including direct input, YouTube, e-commerce, news, social media, and blogs.
 
-![image](https://github.com/user-attachments/assets/7462e1dc-0cae-49b4-86ab-fdf987543f40)
-
+![Sentiment Analyzer Screenshot](screenshot.png)
 
 ## Overview
 
@@ -155,4 +154,4 @@ MIT License
 
 - [Supabase](https://supabase.com/) for the serverless backend
 - [React](https://reactjs.org/) for the frontend framework
-- [TailwindCSS](https://tailwindcss.com/) for styling
+- [TailwindCSS](https://tailwindcss.com/) for styling 
